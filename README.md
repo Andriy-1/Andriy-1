@@ -14,4 +14,5 @@ My name is Andriy and I have been working in the field of programming for over a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andriy-1&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andriy-1&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Andriy-1&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
