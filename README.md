@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-My name is Andriy and I have been working in the field of programming for over a year as a front-end developer.<br>I am currently 21 years old, and I try to constantly develop and improve my professional skills.<br>Currently, my goal is to become a cool full stack developer, and I'm working on improving my programming knowledge and skills to achieve this goal.<br>I know there is still a lot of work to be done, but I won't stop until I get to mine goals.<br>
+My name is Andriy and I have been working in the field of programming for over a year as a front-end developer.<br>I am currently 23 years old, and I try to constantly develop and improve my professional skills.<br>Currently, my goal is to become a cool full stack developer, and I'm working on improving my programming knowledge and skills to achieve this goal.<br>I know there is still a lot of work to be done, but I won't stop until I get to mine goals.<br>
 
 
 ## 🌐 Socials:
